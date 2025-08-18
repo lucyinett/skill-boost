@@ -14,9 +14,9 @@ The system is fully containerised with **Docker**, making setup and deployment s
 
 ## 🛠️ Tech Stack
 - **Frontend:** React (student dashboard)  
-- **Backend API:** FastAPI (or Flask/Node if different)  
+- **Backend API:** FastAPI 
 - **Recommender Service:** Python (NLP, content-based + collaborative filtering)  
-- **Database:** PostgreSQL  
+- **Database:** MongoDB  
 - **Deployment & DevOps:** Docker, Docker Compose, GitHub Actions  
 
 ---
@@ -72,4 +72,5 @@ This project was developed as part of my dissertation:
 
 The full dissertation is available on my portfolio site:  
 👉 [View on Portfolio](https://lucyinett.co.uk)
+
 
