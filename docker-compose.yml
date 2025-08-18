@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  backend:
+    build: ./skill-boost-backend
+    ports:
+      - "8080:8080"
+  frontend:
+    build: ./skill-boost-frontend
+    ports:
+      - "3000:80"
+  recommendation:
+    build: ./skill-boost-recommendation-system
+    ports:
+      - "8000:80"
