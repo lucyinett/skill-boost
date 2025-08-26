@@ -28,7 +28,7 @@ The system is fully containerised with **Docker**, making setup and deployment s
 
 ### 3. Clone the repository
 ```bash
-git clone https://github.com/yourusername/skill-boost.git
+git clone https://github.com/lucyinett/skill-boost.git
 cd skill-boost
 ```
 ### 3. Build the containers
@@ -72,5 +72,6 @@ This project was developed as part of my dissertation:
 
 The full dissertation is available on my portfolio site:  
 👉 [View on Portfolio](https://lucyinett.co.uk)
+
 
 
